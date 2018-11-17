@@ -1,6 +1,0 @@
-dev
-<<<<<<< HEAD
-master
-=======
-master
->>>>>>> dev
